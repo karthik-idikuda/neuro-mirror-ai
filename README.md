@@ -1,75 +1,103 @@
 <div align="center">
 
-![Header](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDgwMCAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGYyMDI3IiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzIwM2E0MyIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMmM1MzY0IiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciIHg9Ii0yMCUiIHk9Ii0yMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjE0MCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI2IiByZXN1bHQ9ImJsdXIiIC8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJibHVyIiBvcGVyYXRvcj0ib3ZlciIgLz4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQpIiByeD0iMTUiIHJ5PSIxNSIvPgogIAogIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQ2IiBmaWxsPSIjMDBlNWZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWx0ZXI9InVybCgjZ2xvdykiIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyBsZXR0ZXItc3BhY2luZzogNXB4OyI+CiAgICBuZXVybyBtaXJyb3IgYWkKICA8L3RleHQ+CiAgCiAgPHRleHQgeD0iNTAlIiB5PSI3MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iI2ZmZmZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgc3R5bGU9ImxldHRlci1zcGFjaW5nOiAzcHg7IG9wYWNpdHk6IDAuODsiPgogICAgUFJPUFJJRVRBUlkgVFlQRVNDUklQVCBURUNITk9MT0dZCiAgPC90ZXh0PgoKICA8IS0tIEFuaW1hdGVkIGVsZW1lbnRzIC0tPgogIDxjaXJjbGUgY3g9IjE1MCIgY3k9IjE1MCIgcj0iNCIgZmlsbD0iIzAwZTVmZiIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjE1MDsgNjUwOyAxNTAiIGR1cj0iNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogIDwvY2lyY2xlPgogIDxjaXJjbGUgY3g9IjY1MCIgY3k9IjUwIiByPSIzIiBmaWxsPSIjMDBlNWZmIiBmaWx0ZXI9InVybCgjZ2xvdykiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIHZhbHVlcz0iNjUwOyAxNTA7IDY1MCIgZHVyPSI3cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9jaXJjbGU+Cjwvc3ZnPg==)
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bc8cff&height=220&section=header&text=neuro%20mirror%20ai&fontSize=42&fontAlignY=35&desc=Web%20Application&descAlignY=55&fontColor=ffffff" alt="Header"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-TypeScript-00e5ff?style=for-the-badge&logo=probot&logoColor=black" alt="Language" />
-  <img src="https://img.shields.io/badge/Files-36-203a43?style=for-the-badge&logo=files&logoColor=00e5ff" alt="Files" />
-  <img src="https://img.shields.io/badge/License-PROPRIETARY-ff0000?style=for-the-badge&logo=law&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/Type-Web%20Application-bc8cff?style=for-the-badge&logo=target&logoColor=black" alt="Type" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-bc8cff?style=for-the-badge&logo=code&logoColor=black" alt="Language" />
+  <img src="https://img.shields.io/badge/Files-37-161b22?style=for-the-badge&logo=files&logoColor=bc8cff" alt="Files" />
+  <img src="https://img.shields.io/badge/License-PROPRIETARY-ff0000?style=for-the-badge&logo=shield&logoColor=white" alt="License" />
 </p>
 
-*Exclusive Neural & Cognitive Architecture developed by Karthik Idikuda.*
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=bc8cff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=bc8cff" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextjs&logoColor=bc8cff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-161b22?style=flat-square&logo=tailwindcss&logoColor=bc8cff" alt="TailwindCSS" />
+
 
 </div>
 
 ---
 
-## Technical Synopsis
+## Overview
 
-> This project consists of 36 highly specialized modules written primarily in TypeScript.
+> A web application project comprising 37 integrated source modules, built with TypeScript.
 
-Welcome to **neuro mirror ai**. This repository contains proprietary source code engineered by Karthik Idikuda. The architecture leverages deep integration techniques tailored specifically for this project's requirements, heavily optimized for execution efficiency.
+**neuro mirror ai** is a proprietary web application system engineered by **Karthik Idikuda**. It leverages TypeScript, React, Next.js, TailwindCSS for its core functionality.
 
 <br/>
 
-## Internal System Engineering
-
-The internal blueprint below dynamically represents the specific components and data execution flow identified within this repository.
+## System Architecture
 
 ```mermaid
 graph TD;
-    A[Web Client] -->|Static Assets| B(CDN / Edge Network);
-    A -->|Dynamic Data| C{Serverless Functions};
-    C --> D[(Cloud Datastore)];
-    
-    classDef primary fill:#1a1a2e,stroke:#4a00e0,stroke-width:2px,color:#fff;
-    classDef secondary fill:#16213e,stroke:#8e2de2,stroke-width:1px,color:#fff;
-    classDef database fill:#0f3460,stroke:#4a00e0,stroke-width:2px,color:#fff;
-    
-    class A primary;
-    class B,C secondary;
-    class D database;
+    A["Client Browser"] -->|HTTPS| B["Next.js SSR/SSG Engine"];
+    B -->|React Components| C["Interactive UI Layer"];
+    C --> D["TailwindCSS Design System"];
+
+    classDef frontend fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#fff;
+    classDef backend fill:#161b22,stroke:#d2a8ff,stroke-width:2px,color:#fff;
+    classDef styling fill:#21262d,stroke:#79c0ff,stroke-width:1px,color:#fff;
+    class A,B,C frontend;
+    class D styling;
+    class E,F backend;
 ```
 
 <br/>
 
-## Proprietary Specifications
+## Project Structure
 
-| Attribute | Implementation Detail |
-|:---|:---|
-| **Core Technology** | `TypeScript` |
-| **System Scale** | `36 Identifiable Resource Nodes` |
-| **Execution Tier** | `High-Performance / Latency Optimized` |
-| **Intellectual Property** | `Strictly Confidential & Proprietary` |
+```
+neuro-mirror-ai/
+  .gitignore
+  LICENSE
+  README.md
+  eslint.config.mjs
+  next.config.ts
+  package-lock.json
+  package.json
+  postcss.config.mjs
+  tsconfig.json
+  public/
+    file.svg
+    globe.svg
+    next.svg
+    vercel.svg
+    window.svg
+  src/
+```
 
 <br/>
 
-## ⚠️ STRICT LEGAL WARNING & LICENSE
+## Technical Specifications
 
-**PROPRIETARY AND CONFIDENTIAL**
+| Attribute | Detail |
+|:---|:---|
+| **Primary Language** | `TypeScript` |
+| **Project Category** | `Web Application` |
+| **Total Source Files** | `37` |
+| **Frameworks** | `TypeScript`, `React`, `Next.js`, `TailwindCSS` |
+| **Key Dependencies** | `eslint-config-next` | `three` | `next` | `gsap` | `@types/react-dom` | `react` | `eslint` | `@mediapipe/pose` | `react-dom` | `@tailwindcss/postcss` | `@react-three/drei` | `@types/node` | `@types/react` | `@mediapipe/camera_utils` | `framer-motion` |
+| **Intellectual Property** | `Strictly Proprietary` |
 
-This software and all associated documentation are the exclusive property of **Karthik Idikuda**. 
+<br/>
+
+## STRICT LEGAL WARNING & LICENSE
+
+> **PROPRIETARY AND CONFIDENTIAL**
+
+This software and all associated documentation are the **exclusive property of Karthik Idikuda**.
 
 - **NO PERMISSION IS GRANTED** to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software without explicit, written consent from the author.
-- **UNAUTHORIZED USE WILL RESULT IN SEVERE LEGAL ACTION.** Any individual or organization found using, referencing, or deploying this code without paying the required licensing fees will face immediate litigation, financial penalties, and potentially criminal prosecution ("jail time") where applicable by law.
+- **UNAUTHORIZED USE WILL RESULT IN SEVERE LEGAL ACTION.** Any individual or organization found using, referencing, or deploying this code without paying the required licensing fees will face immediate litigation, financial penalties, and potentially criminal prosecution where applicable by law.
 - **TO OBTAIN A LEGAL LICENSE**, you must directly contact Karthik Idikuda to negotiate payment terms.
 
-*By viewing this repository, you agree to these strict proprietary terms.*
+*By accessing this repository, you acknowledge and accept these strict proprietary terms.*
 
 ---
+
 <div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&pause=1000&color=00e5ff&center=true&vCenter=true&width=535&lines=Engineered+by+Karthik+Idikuda;Strictly+Proprietary+Technology;Unauthorized+Use+Prohibited" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&pause=1000&color=BC8CFF&center=true&vCenter=true&width=535&lines=Engineered+by+Karthik+Idikuda;Web+Application+Architecture;Strict+Proprietary+License" alt="Typing SVG" />
 </div>
+
+<!-- TRACKING: S0ktbmV1cm8tbWlycm9yLWFpLVRSQUNL -->
